@@ -31,7 +31,7 @@
 - 📚 [foss-banner](https://github.com/detectiveRight/foss-banner) — Animated ASCII art banners for FOSS lovers
    
 ---
-## 🐱 Special Thanks
+### 🐱 Special Thanks
 
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
