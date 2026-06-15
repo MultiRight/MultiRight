@@ -27,7 +27,7 @@
 ### 📌  Featured Projects
 - 📚 [foss-banner](https://github.com/MultiRight/foss-banner) - Animated ASCII art banners for FOSS lovers
 - 📏 [PyGeoterm](https://github.com/MultiRight/PyGeoterm) - A terminal-based geometric area calculator written in Python.
-- ⚙ [RAM-monitor](https://github.com/MultiRight/RAM-monitor) - A lightweight terminal tool that monitors RAM usage in real-time
+- 💾 [RAM-monitor](https://github.com/MultiRight/RAM-monitor) - A lightweight terminal tool that monitors RAM usage in real-time
 ---
 ### 🐱 Special Thanks
 
