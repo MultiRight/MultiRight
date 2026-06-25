@@ -5,9 +5,9 @@
 ---
 ### 🔍 What I Care About
 
-• 🐍 Python language        • 🔒 Privacy
-• 🐧 Linux                  • 💻 OS Enthusiast
-• 🔓 Open Source
+• 🐍 Python language     |   • 🔒 Privacy
+• 🐧 Linux               |   • 💻 OS Enthusiast
+• 🔓 Open Source         |   
 
 
 ---
