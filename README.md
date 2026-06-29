@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 My Contributions :
+### 🐍 My Contributions :
 
 <div align="center">
   <picture>
